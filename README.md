@@ -80,10 +80,10 @@ If you use this repository or any part of its code in your research or publicati
 
 
 ```bibtex
-@misc{adraoui202Xcalibrating,
+@misc{adrai2024calibrating,
     title={Implementation of Stone 2019 paper: Calibrating Rough Volatility Models using a Convolutional Neural Network Approach},
     author={Adel A.},
-    year={202X},
+    year={2024},
     note={Available at \url{https://github.com/adeladrai/calibrating_rough_volatility_with_cnn/}},
 }
 ```
