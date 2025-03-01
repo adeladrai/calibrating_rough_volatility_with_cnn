@@ -1,4 +1,4 @@
-# Implementation of Stone 2019 paper: Calibrating Rough Volatility Models using a Convolutional Neural Network Approach
+# Implementation of Stone 2019's paper: Calibrating Rough Volatility Models using a Convolutional Neural Network Approach
 This repository contains a complete notebook along with pre-trained CNN models for calibrating rough volatility models using a one-dimensional convolutional neural network (1D CNN).
 
 ---
